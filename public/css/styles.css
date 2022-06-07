@@ -49,7 +49,7 @@ input {
 button {
   cursor: pointer;
   border: 1px solid #888888;
-  background: #888888;
+  background: skyblue;
   color: white;
   padding: 8px;
 }
